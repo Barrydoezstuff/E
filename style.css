@@ -1,0 +1,22 @@
+body {
+      background: white;
+        text-align: center;
+          font-family:cursive;
+            background: azure;
+              color: darkgreen;
+              }
+              p {
+                color: #235132;
+                }
+                h1 {
+                  font-weight: bold;
+                    color: darkgoldenrod
+                    }
+                    .myImage {
+                      background-image: url("G0tVrNXb0AAnhp0.png");
+                      }
+                      img {
+                        width: 500px
+                        }
+
+}
